@@ -1,0 +1,10 @@
+let mountains: string[] = ["Nanga Parbat", "Karakoram", "Himalayas", "Margalla Hills" ];
+console.log("List of mountains:", mountains);
+let rivers: string[] = ["Indus river", "Jhelum river", "Chenab river", "Ravi river" ];
+console.log("List of rivers:", rivers);
+let countries: string[] = ["Pakistan", "India", "Afganistan", "Nepal", "Bangladesh" ];
+console.log("List of countries:", countries);
+let cities: string[] = ["Karachi", "Lahore", "Islamabad", "Sukkur" ];
+console.log("List of cities:", cities);
+let languages: string[] = ["Sindhi", "Urdu", "Punjabi", "Siraiki", "Pashto", "Balochi" ];
+console.log("List of languages:", languages);
