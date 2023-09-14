@@ -10,9 +10,9 @@ console.log(`Hello ${Name},would you like to learn some TypeScript today?`);
 // Date 26 jun 2023
 
 let Name1: string = "Noman";
-console.log(firstname. toLowerCase());
-console.log(firstname. toUpperCase());
-console.log(firstname[0]. toUpperCase() + firstname.slice(1).toLowerCase());
+console.log(Name. toLowerCase());
+console.log(Name. toUpperCase());
+console.log(Name[0]. toUpperCase() + Name.slice(1).toLowerCase());
 
 
 
